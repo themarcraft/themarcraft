@@ -1,7 +1,7 @@
 # About me
 Hi, I'm @themarcraft
 
-I'm 17 years Old and love to code and to play games.
+I'm 18 years Old and love to code and to play games.
 
 ### Favorite Coding Languages
 I really love Web Development but also love developing Minecraft Plugins and Mods.
