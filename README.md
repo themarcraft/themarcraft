@@ -8,7 +8,7 @@ I really love Web Development but also love developing Minecraft Plugins and Mod
 My favorite programming Languages are: Java, PHP, SQL, HTML, CSS, JavaScript, Python, LUA
 
 ### My Projects
-Currently, I'm working on Moro (Modernized Roleplay) with [JuniorJacki](https://github.com/JuniorJacki) but here you can see all my other public Projects:
+Currently, I'm working on [NexJ](https://nexj.eu) with [JuniorJacki](https://github.com/JuniorJacki) but here you can see all my other public Projects:
 [Projects on my Website](https://themarcraft.de/projects)
 
 ### My Favorite Games
