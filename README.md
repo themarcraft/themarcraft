@@ -20,3 +20,13 @@ In my holiday time I work as Webdesigner and Webdeveloper at Grasshopper Design.
 Currently, I am a student at a grammer school (Gymnasium) in Germany.
 
 [A better Version of my README file on my Website](https://themarcraft.de/aboutme)
+
+### 📊 My GitHub Performance
+
+<p align="left">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=themarcraft&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="left">
+  <img src="https://github-stats-extended.vercel.app/api?username=themarcraft&show_icons=true&theme=tokyonight&hide_border=true" alt="JuniorJacki's GitHub Stats" />
+</p>
